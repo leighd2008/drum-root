@@ -28,14 +28,17 @@ A React Web App for Creating and Sharing Drum Loops. See [Drum Root API](https:/
 ## Team
 
 - Project Lead - [rgavinc](https://github.com/rgavinc)
-- Front End Lead - needed
+- Front End Lead - [marcoseoane](https://github.com/marcoseoane)
 - Back End Lead - [yashShelatkar](https://github.com/yashShelatkar)
-- QA Lead - [rvvergara](https://github.com/rvvergara)
+- QA Lead - [zbc](https://github.com/zbc)
 - Database Lead - [Aneesh](https://github.com/aneesh4995)
 - Designer/ Styling Lead - [linconkusunoki](https://github.com/linconkusunoki)
 
 ### Past Team Lead Members
-- [Dhaval](https://github.com/Dhaval1403)
+
+- [Dhaval](https://github.com/Dhaval1403) - Front End Lead _Oct 2019 - Nov 2019_
+- [rvvergara](https://github.com/rvvergara) - QA Lead _Oct 2019 - Dec 2019_
+
 ---
 
 ## Running Locally in Development Mode
@@ -59,7 +62,7 @@ You should run `npm run build` again any time you make changes to the site.
 
 ## Running Storybook
 
-Storybook is a way to view the compoonent's in isolation. To view Drum Root's storybook run the following command:
+Storybook is a way to view the components in isolation. To view Drum Root's storybook, run the following command:
 
     npm run storyboook
 

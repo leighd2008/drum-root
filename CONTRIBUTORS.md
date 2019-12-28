@@ -45,6 +45,17 @@ Please follow this template:
 - Kervin Vasquez | https://github.com/kervin5 | Kervin5#3175
 - Parveen Kumar | https://github.com/parveenmittal1 | mysterious_code
 - Cliff | https://github.com/cliftontc | cliftontc#8746
-- Marco Seoane | https://github.com/marcoseoane | dustyfrxsh#1226 
+- Marco Seoane | https://github.com/marcoseoane | dustyfrxsh#1226
 - Aman Saharan | https://github.com/amansaharan | amansaharan#0888
 - Vishnu Prasad P S | https://github.com/vishnup95 | vishnup95
+- Shiva Reddy |https://github.com/shivareddy |Shiva Reddy
+- Ahamisi Godsfavour | https://github.com/ahamisi | aceman
+- Tisha | https://github.com/tmurvv/drum-root | tmurv
+- Sander | https://github.com/Sandermoen | Snader#9933
+- Francisco Silva | https://github.com/francisco-f-silva | Cisco123#3822
+- Kenneth | https://github.com/kencode7 | kencode#2025
+- Emmanuel | https://github.com/SkyC0der | Emmanuell#9392
+- Chris |https://github.com/christocarr | ChrisC#3242
+- Justin | https://github.com/CatsOnFilm | JustinBB#1681
+- Allison | https://github.com/allisonnnnnn | Allison#1565
+- Timo Köhler / bukto | https://github.com/koehlertimo | bukto_#6269
